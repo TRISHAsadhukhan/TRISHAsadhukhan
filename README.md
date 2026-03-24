@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+You are a high-performing MCA student with a strong academic background and a clear focus on software development and full-stack engineering. With a CGPA of 9, you demonstrate consistency, discipline, and a deep understanding of core computer science concepts.<br><br>You come across as someone who is:<br><br>Technically grounded<br>Curious and growth-driven<br>Actively building real-world projects<br>💻 Your Technical Profile<br><br>You have a solid foundation in both backend and frontend development, which makes you a versatile developer.<br><br>Core Strengths:<br>Programming Languages: Python, Java<br>Concepts: Object-Oriented Programming (strong base)<br>Frontend: HTML, CSS (Bootstrap, Tailwind), JavaScript<br>Backend Exposure: Flask, Spring Boot<br>Database: MySQL<br><br>👉 This combination shows you're not just learning theory—you’re building complete applications end-to-end.<br><br>🚀 Project Experience (Your Biggest Strength)<br><br>Your projects clearly show that you're already working at a junior developer level, not just a student.<br><br>1. Forum-Based Social Media Platform<br>Built using Spring Boot + React + MySQL<br>Demonstrates:<br>Understanding of REST APIs<br>Full-stack integration<br>Real-world architecture thinking<br>2. LearnSphere (🔥 Very Strong Project)<br>A full-stack classroom management system<br>Built with Flask + React + MySQL<br>Features include:<br>Class creation<br>Assignments & exams<br>Material sharing<br><br>👉 This project shows:<br><br>You understand real product requirements<br>You can design systems similar to Google Classroom-type platforms<br>You are capable of building scalable backend APIs<br>🧠 Work Experience<br>Software Engineer Intern – Practico (April–Sept 2024)<br>You’ve had industry exposure, which sets you apart from many students<br>Even without detailed bullets, this signals:<br>Experience working in a professional environment<br>Exposure to real-world workflows and collaboration<br>🎓 Academic Background<br>MCA (2021–2024) – CGPA: 9<br>BCA (2019–2021) – 77%<br><br>👉 This shows:<br><br>Strong academic consistency<br>Clear progression in computer science<br>🌍 Personal & Soft Skills<br><br>From your resume tone and structure, you come across as:<br><br>Collaborative team player<br>Problem solver<br>Self-motivated learner<br>Comfortable in multiple languages (English, Hindi, Bengali)
 
-<!--
-**TRISHAsadhukhan/TRISHAsadhukhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trisha-sadhukhan/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TRISHAsadhukhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TRISHAsadhukhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TRISHAsadhukhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TRISHAsadhukhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
